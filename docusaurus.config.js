@@ -75,11 +75,11 @@ const config = {
               },
               {
                 label: 'Details',
-                to: '/docs/details/',
+                to: '/docs/category/details',
               },
               {
                 label: 'Development Guide',
-                to: '/docs/development-guide/',
+                to: '/docs/category/development-guide',
               },
             ],
           },
