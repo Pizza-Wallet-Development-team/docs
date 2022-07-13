@@ -10,7 +10,7 @@ const config = {
   tagline: 'Official Docs for Pizza Wallet',
   url: 'https://docs.pizzawallet.io',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.svg',
 
@@ -75,11 +75,11 @@ const config = {
               },
               {
                 label: 'Details',
-                to: '/docs/details',
+                to: '/docs/details/',
               },
               {
                 label: 'Development Guide',
-                to: '/docs/development-guide',
+                to: '/docs/development-guide/',
               },
             ],
           },

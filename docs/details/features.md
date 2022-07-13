@@ -9,9 +9,6 @@ description: Overview of Pizza Wallet's features
 - Social Login
 - Email Login
 
-### Connect to dApps:
-- WalletConnect QR and Desktop (In progress)
-
 ### Transfer Assets
 - Moralis Boilerplate
 
