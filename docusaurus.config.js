@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.svg',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Pizza-Wallet-Development-team/docs',
+            'https://github.com/Pizza-Wallet-Development-team/docs/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -70,8 +70,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Features',
-                to: '/docs/features',
+                label: 'Roadmap',
+                to: '/docs/roadmap',
+              },
+              {
+                label: 'Details',
+                to: '/docs/details',
+              },
+              {
+                label: 'Development Guide',
+                to: '/docs/development-guide',
               },
             ],
           },
