@@ -15,5 +15,5 @@ description: Overview of Pizza Wallet's features
 ### Cross Chain Swap
 - LI.FI Integration
 
-### On Ramp
-- Transak
+### Onramp & Offramp
+- Onramper
