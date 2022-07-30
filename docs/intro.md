@@ -12,7 +12,7 @@ sidebar_position: 1
 
 - [Web3Auth](https://web3auth.io/) (User Authentication)
 - [LI.FI](https://li.fi/) (Crosschain Swaps)
-- [Transak](https://transak.com/) (Fiat Onramp)
+- [Onramper](https://onramper.com/) (Fiat Onramp & Offramp)
 
 ## Supported Chains
 
