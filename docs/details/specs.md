@@ -5,9 +5,20 @@ description: Overview of Pizza Wallet's Specs
 
 # Specs
 
-### Wallet Type:
+### Wallet Type
 - Key-based Wallet
 
-### Supported Chains:
-- EVM
+### Supported Chains
+- We support 250+ EVM chains.
+    - Ethereum
+    - Polygon
+    - Binance Smart Chain
+    - Avalanche
+    - Optimism
+    - Arbitrum
+    - Fantom
+    - Moonriver
+    - Gnosis
+    - Heco
+    - ...
 

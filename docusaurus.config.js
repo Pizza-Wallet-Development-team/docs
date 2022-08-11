@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Pizza Wallet Docs',
-  tagline: 'Official Docs for Pizza Wallet',
+  tagline: 'Want to know more about us?',
   url: 'https://docs.pizzawallet.io',
   baseUrl: '/',
   onBrokenLinks: 'ignore',
@@ -50,7 +50,6 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Pizza Wallet Docs',
         logo: {
           alt: 'Logo',
           src: 'img/logo.svg',

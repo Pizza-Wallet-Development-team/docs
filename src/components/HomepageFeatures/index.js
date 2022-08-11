@@ -7,7 +7,7 @@ const FeatureList = [
     title: 'Intro',
     description: (
       <>
-         Pizza Wallet is a self custodial, decentralized, chain agnostic wallet that wants to be the go to place for web3 users.
+         Pizza Wallet is a self custodial, decentralized, chain agnostic, service aggregator wallet. The one stop shop for web3 users.
       </>
     ),
   },
@@ -15,8 +15,7 @@ const FeatureList = [
     title: 'Mission',
     description: (
       <>
-        We want to onboard the next million crypto users and make the whole process simple and fun. We want to be the community where 
-        people come together to build.
+        We aim to make the crypto onboarding process as simple and enjoyable as eating a slice of pizza.
       </>
     ),
   },
@@ -24,7 +23,7 @@ const FeatureList = [
     title: 'Vision',
     description: (
       <>
-        We want to be the most user centric wallet in the crypto space. We want to be a wallet built by the community for the community
+        Pizza is the most beloved food in the world. We are bringing crypto use cases to it's community through the most user experience focused wallet in the space.
       </>
     ),
   },
