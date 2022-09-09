@@ -9,16 +9,14 @@ description: Overview of Pizza Wallet's Specs
 - Key-based Wallet
 
 ### Supported Chains
-- We support 250+ EVM chains.
     - Ethereum
-    - Polygon
-    - Binance Smart Chain
-    - Avalanche
-    - Optimism
-    - Arbitrum
     - Fantom
-    - Moonriver
+    - Polygon
+    - Avalanche
+    - Arbitrum
+    - Optimism
+    - Binance
+    - Harmony
     - Gnosis
-    - Heco
-    - ...
+    - Celo
 
