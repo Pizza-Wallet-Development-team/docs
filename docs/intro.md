@@ -13,15 +13,13 @@ We partned with the best 3rd party services in the market and bundled them in on
 
 ## Supported Chains
 
-- We are chain agnostic and support all EVM chains.
-- Pizza Wallet comes pre-configured with the following chains:
-    - Ethereum
-    - Binance Smart Chain
-    - Avalanche
-    - Polygon
-    - Optimism
-    - Arbitrum
-    - Fantom
-    - Moonriver
-    - Gnosis
-    - Heco
+- Ethereum
+- Fantom
+- Polygon
+- Avalanche
+- Arbitrum
+- Optimism
+- Binance
+- Harmony
+- Gnosis
+- Celo
