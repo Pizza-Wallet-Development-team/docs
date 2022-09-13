@@ -9,14 +9,14 @@ description: Overview of Pizza Wallet's Specs
 - Key-based Wallet
 
 ### Supported Chains
-    - Ethereum
-    - Fantom
-    - Polygon
-    - Avalanche
-    - Arbitrum
-    - Optimism
-    - Binance
-    - Harmony
-    - Gnosis
-    - Celo
 
+- Ethereum
+- Fantom
+- Polygon
+- Avalanche
+- Arbitrum
+- Optimism
+- Binance
+- Harmony
+- Gnosis
+- Celo
