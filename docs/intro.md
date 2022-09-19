@@ -12,7 +12,6 @@ We partned with the best 3rd party services in the market and bundled them in on
 - [Onramper](https://onramper.com/) (Fiat Onramp & Offramp)
 
 ## Supported Chains
-
 - Ethereum
 - Fantom
 - Polygon
