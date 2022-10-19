@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Roadmap
 
-## MVP
+## MVP (Minimum Viable Product)
 
 - Key-based Wallet
 - Social and Email Authentication with 2FA
